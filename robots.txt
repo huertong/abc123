@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://huertong.github.io/al-folio/sitemap.xml
+Sitemap: https://huertong.github.io/al-folio/al-folio/sitemap.xml
